@@ -113,6 +113,14 @@
 			<br />
 			<small>(firefox recommended. trigger sprites originally by robtop)</small>
         </Extension>
+<Extension
+            name="Subway Surfers"
+            image="/images/subwaySurfers.png"
+            owner="ddededodediamante"
+            url={locationOrigin + "/extensions/subwaySurfers.js"}
+        >
+            watch subway surfers while coding for max multitask ha ha
+        </Extension>
     </div>
 
     <div style="height:256px" />
